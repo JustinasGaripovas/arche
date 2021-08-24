@@ -129,6 +129,7 @@ html, body {
 }
 .mdl-demo section > .section__play-btn {
   min-height: 200px;
+  min-width: 200px;
 }
 .mdl-demo section > header > .material-icons {
   font-size: 3rem;
